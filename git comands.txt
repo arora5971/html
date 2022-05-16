@@ -1,0 +1,11 @@
+git status- to check updated files
+
+git add .- to add all the files which needs to upload
+
+git commit -m "WIP: comment" - to add comments
+
+git push - to upload to github proile
+
+git pull - to pull old code
+
+git clone repositry link
